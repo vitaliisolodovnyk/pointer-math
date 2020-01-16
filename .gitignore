@@ -1,5 +1,5 @@
-.gitignore
+..gitignore
 .idea
 pointer-math.iml
-.readme
-.src.iml
+readme
+src.iml
